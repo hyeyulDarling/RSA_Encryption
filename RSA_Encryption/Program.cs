@@ -17,5 +17,5 @@ public static bool IsPrime ( int number)
             return false;
         }
     }
-    return true
+    return true;
 }
