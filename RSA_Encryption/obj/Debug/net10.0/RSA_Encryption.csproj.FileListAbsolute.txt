@@ -1,0 +1,14 @@
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\bin\Debug\net10.0\RSA_Encryption.exe
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\bin\Debug\net10.0\RSA_Encryption.deps.json
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\bin\Debug\net10.0\RSA_Encryption.runtimeconfig.json
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\bin\Debug\net10.0\RSA_Encryption.dll
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\bin\Debug\net10.0\RSA_Encryption.pdb
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.AssemblyInfoInputs.cache
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.AssemblyInfo.cs
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.dll
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\refint\RSA_Encryption.dll
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.pdb
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\RSA_Encryption.genruntimeconfig.cache
+C:\Users\Aniela\OneDrive\Desktop\C_Sharp\RSA_Encryption\obj\Debug\net10.0\ref\RSA_Encryption.dll
